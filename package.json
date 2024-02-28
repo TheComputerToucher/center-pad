@@ -1,6 +1,6 @@
 {
   "name": "center-pad",
-  "version": "1.0.0.0.0.1",
+  "version": "2",
   "description": "There's left-pad and right-pad. Why is there no center-pad?",
   "main": "index.js",
   "scripts": {
